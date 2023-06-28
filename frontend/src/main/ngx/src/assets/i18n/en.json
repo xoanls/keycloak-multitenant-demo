@@ -1,0 +1,19 @@
+{
+  "APP_TITLE": "Quickstart",
+  "VERSION": "Version",
+  "ERROR_NO_ORGANIZATIONS": "User has no organizations",
+  "ERROR_PASS_REQUIRED": "Incorrect password.",
+  "ERROR_SESSION_EXPIRED": "Session expired.",
+  "ERROR_USER_PASS_INCORRECT": "Invalid username or password.",
+  "ERROR_USER_REQUIRED": "Incorrect username.",
+  "FOOTER_CREATED_BY": "Developed by Imatia Innovation",
+  "FOOTER_RIGHTS": "All rights reserved",
+  "HOME": "Home",
+  "LOGIN": "Login",
+  "LOGIN_TITLE": "Log in to your account",
+  "LOGOUT": "Logout",
+  "SELECT_ORGANIZATION": "Select your organization",
+  "username": "Username",
+  "VERSION": "Version",
+  "VIEW": "Views"
+}

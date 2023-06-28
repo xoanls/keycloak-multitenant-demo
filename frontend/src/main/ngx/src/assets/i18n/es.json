@@ -1,0 +1,19 @@
+{
+  "APP_TITLE": "JEE seed",
+  "VERSION": "Versión",
+  "ERROR_NO_ORGANIZATIONS": "El usuario no tiene organizaciones",
+  "ERROR_PASS_REQUIRED": "Contraseña incorrecta.",
+  "ERROR_SESSION_EXPIRED": "La sesión ha caducado",
+  "ERROR_USER_PASS_INCORRECT": "Usuario o contraseña incorrecta.",
+  "ERROR_USER_REQUIRED": "Nombre de usuario incorrecto.",
+  "FOOTER_CREATED_BY": "Creado por Imatia Innovation",
+  "FOOTER_RIGHTS": "Todos los derechos reservados",
+  "HOME": "Inicio",
+  "LOGIN": "Entrar",
+  "LOGIN_TITLE": "Inicia sesión en tu cuenta",
+  "LOGOUT": "Salir",
+  "SELECT_ORGANIZATION": "Seleccione su organization",
+  "username": "Usuario",
+  "VERSION": "Versión",
+  "VIEW": "Vistas"
+}
