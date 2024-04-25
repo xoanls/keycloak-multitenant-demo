@@ -77,7 +77,7 @@ spring:
    session:
       store-type: none
    resources:
-      static-locations: classpath:/ngx/dist/
+      static-locations: classpath:/public/, classpath:/ngx/dist/
    autoconfigure:
       exclude: |
          org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration, org.springframework.boot.actuate.autoconfigure.ManagementWebSecurityAutoConfiguration, org.springframework.boot.autoconfigure.security.FallbackWebSecurityAutoConfiguration
